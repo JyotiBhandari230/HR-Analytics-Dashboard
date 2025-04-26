@@ -24,6 +24,12 @@ The goal is to help HR teams make better, data-driven decisions to improve emplo
 -Attrition by Age Group
 -Count by Education Field
 
+-<a href="https://app.powerbi.com/links/4Ok_UPRZap?ctid=d50a8679-62c5-4c50-8a87-c0f233324900&pbi_source=linkShare"> Interactive Dashboard</a>
+
+# Dashboard
+![Screenshot 2025-04-26 160247](https://github.com/user-attachments/assets/e67b2d4e-2a36-4023-a210-f2ce2012f76a)
+
+
 # Project Insights (KPI Answers)
 
 -Total Employees: 1470
