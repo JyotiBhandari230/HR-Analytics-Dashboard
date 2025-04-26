@@ -4,6 +4,9 @@
 The objective of this project is to build an interactive HR Analytics Dashboard using Power BI to monitor key HR metrics such as attrition, employee demographics, job satisfaction, and salary trends.
 The goal is to help HR teams make better, data-driven decisions to improve employee retention and overall workforce planning.
 
+# Dataset
+https://github.com/JyotiBhandari230/HR-Analytics-Dashboard/blob/main/HR_Analytics.csv
+
 
 # Key Performance Indicators (KPIs)
 
