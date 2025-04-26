@@ -33,19 +33,33 @@ The goal is to help HR teams make better, data-driven decisions to improve emplo
 # Project Insights (KPI Answers)
 
 -Total Employees: 1470
+
 -Attrition Count: 237 employees left
+
 -Attrition Rate: 16.12%
+
 -Average Age: 37 years
+
 -Average Years at Company: 7 years
+
 -Average Salary: ₹6.5K
+
 -Minimum Salary: ₹1.0K
+
 -Maximum Salary: ₹20.0K
+
 -Gender Diversity: 882 Male, 588 Female
+
 -Employee Marital Status: 572 Single, 673 Married, 225 Divorced
+
 -Job Satisfaction:
+
 -24% employees are highly satisfied
+
 -28% employees are moderately satisfied
+
 -27% employees are neutral
+
 -21% employees are dissatisfied
 
 # Conclusion
