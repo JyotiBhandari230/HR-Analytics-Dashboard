@@ -5,7 +5,7 @@ The objective of this project is to build an interactive HR Analytics Dashboard 
 The goal is to help HR teams make better, data-driven decisions to improve employee retention and overall workforce planning.
 
 # Dataset
-- <a href="https://github.com/JyotiBhandari230/HR-Analytics-Dashboard/blob/main/HR_Analytics.csv>" Dataset</a>
+- <a href="https://github.com/JyotiBhandari230/HR-Analytics-Dashboard/blob/main/HR_Analytics.csv">Dataset</a>
 
 
 # Key Performance Indicators (KPIs)
